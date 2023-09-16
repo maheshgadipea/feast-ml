@@ -1,8 +1,8 @@
 
 *.pyc
-.idea/
-.gradle/
-.mvn/
+.idea
+.gradle
+.mvn
 .project
 .classpath
 *.xml
