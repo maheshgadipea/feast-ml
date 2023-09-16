@@ -1,9 +1,0 @@
-
-*.pyc
-.idea
-.gradle
-.mvn
-.project
-.classpath
-*.xml
-.ipynb_checkpoints
