@@ -6,3 +6,4 @@
 .project
 .classpath
 *.xml
+.ipynb_checkpoints
