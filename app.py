@@ -4,9 +4,6 @@ from feast import  FeatureStore
 import os
 BASE_DIR = os.path.join(os.getcwd(),"feast_storage","feature_repo")
 
-
-
-
 ## Set Feature Views
 
 ## Set Feature Services
